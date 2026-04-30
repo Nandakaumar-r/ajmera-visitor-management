@@ -1,0 +1,3 @@
+Employee Email,Leave Type,From Date,To Date,Session 1,Session 2,Reason
+employee@example.com,casual,2024-01-15,2024-01-16,full,full,Personal work
+another.employee@example.com,sick,2024-01-20,2024-01-20,full,half,Medical appointment

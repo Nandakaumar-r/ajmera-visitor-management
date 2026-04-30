@@ -1,0 +1,25 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-DtFk-qJY.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-CxewhgLn.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/linkedin-preview.js": {
+    "file": "assets/linkedin-preview-BdTm2zcI.js",
+    "name": "linkedin-preview",
+    "src": "resources/js/linkedin-preview.js",
+    "isEntry": true
+  },
+  "resources/js/social-feed.js": {
+    "file": "assets/social-feed-PjZyasAC.js",
+    "name": "social-feed",
+    "src": "resources/js/social-feed.js",
+    "isEntry": true
+  }
+}

@@ -1,0 +1,441 @@
+  2025-09-05 11:01:52 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:53 App\Notifications\NewVisitorNotification . 865.11ms DONE
+  2025-09-05 11:01:53 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:53 App\Notifications\NewVisitorNotification . 120.79ms FAIL
+  2025-09-05 11:01:53 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:54 App\Notifications\NewVisitorNotification . 386.27ms DONE
+  2025-09-05 11:01:54 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:54 App\Notifications\NewVisitorNotification . 107.84ms FAIL
+  2025-09-05 11:01:54 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:54 App\Notifications\NewVisitorNotification . 492.32ms DONE
+  2025-09-05 11:01:54 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:54 App\Notifications\NewVisitorNotification . 107.17ms FAIL
+  2025-09-05 11:01:54 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:55 App\Notifications\NewVisitorNotification . 429.65ms DONE
+  2025-09-05 11:01:55 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:55 App\Notifications\NewVisitorNotification . 109.43ms FAIL
+  2025-09-05 11:01:55 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:55 App\Notifications\NewVisitorNotification . 452.73ms DONE
+  2025-09-05 11:01:55 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:55 App\Notifications\NewVisitorNotification . 109.80ms FAIL
+  2025-09-05 11:01:55 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:56 App\Notifications\NewVisitorNotification . 415.14ms DONE
+  2025-09-05 11:01:56 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:56 App\Notifications\NewVisitorNotification . 197.83ms FAIL
+  2025-09-05 11:01:56 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:57 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-05 11:01:57 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:57 App\Notifications\NewVisitorNotification . 127.62ms FAIL
+  2025-09-05 11:01:57 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:58 App\Notifications\NewVisitorNotification . 440.23ms DONE
+  2025-09-05 11:01:58 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:58 App\Notifications\NewVisitorNotification . 127.93ms FAIL
+  2025-09-05 11:01:58 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:58 App\Notifications\NewVisitorNotification . 392.51ms DONE
+  2025-09-05 11:01:58 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:59 App\Notifications\NewVisitorNotification . 374.33ms FAIL
+  2025-09-05 11:01:59 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:59 App\Notifications\NewVisitorNotification . 384.78ms DONE
+  2025-09-05 11:01:59 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:01:59 App\Notifications\NewVisitorNotification . 126.47ms FAIL
+  2025-09-05 11:01:59 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:00 App\Notifications\NewVisitorNotification . 468.53ms DONE
+  2025-09-05 11:02:00 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:00 App\Notifications\NewVisitorNotification . 410.27ms FAIL
+  2025-09-05 11:02:00 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:01 App\Notifications\NewVisitorNotification . 460.00ms DONE
+  2025-09-05 11:02:01 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:01 App\Notifications\NewVisitorNotification . 219.38ms FAIL
+  2025-09-05 11:02:01 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:02 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-05 11:02:02 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:02 App\Notifications\NewVisitorNotification . 107.07ms FAIL
+  2025-09-05 11:02:02 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:02 App\Notifications\NewVisitorNotification . 389.71ms DONE
+  2025-09-05 11:02:02 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:03 App\Notifications\NewVisitorNotification . 108.65ms FAIL
+  2025-09-05 11:02:03 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:03 App\Notifications\NewVisitorNotification . 395.48ms DONE
+  2025-09-05 11:02:03 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:03 App\Notifications\NewVisitorNotification . 121.69ms FAIL
+  2025-09-05 11:02:03 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:03 App\Notifications\NewVisitorNotification . 390.85ms DONE
+  2025-09-05 11:02:03 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:04 App\Notifications\NewVisitorNotification . 112.24ms FAIL
+  2025-09-05 11:02:04 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:04 App\Notifications\NewVisitorNotification . 342.54ms DONE
+  2025-09-05 11:02:04 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:04 App\Notifications\NewVisitorNotification . 107.42ms FAIL
+  2025-09-05 11:02:04 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:04 App\Notifications\NewVisitorNotification . 415.90ms DONE
+  2025-09-05 11:02:04 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:05 App\Notifications\NewVisitorNotification . 195.22ms FAIL
+  2025-09-05 11:02:05 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:06 App\Notifications\NewVisitorNotification . 861.62ms DONE
+  2025-09-05 11:02:06 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:06 App\Notifications\NewVisitorNotification . 106.69ms FAIL
+  2025-09-05 11:02:06 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:06 App\Notifications\NewVisitorNotification . 376.48ms DONE
+  2025-09-05 11:02:06 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:06 App\Notifications\NewVisitorNotification . 108.42ms FAIL
+  2025-09-05 11:02:06 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:07 App\Notifications\NewVisitorNotification . 648.65ms DONE
+  2025-09-05 11:02:07 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:07 App\Notifications\NewVisitorNotification . 104.19ms FAIL
+  2025-09-05 11:02:07 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:07 App\Notifications\NewVisitorNotification . 396.82ms DONE
+  2025-09-05 11:02:07 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:07 App\Notifications\NewVisitorNotification . 105.40ms FAIL
+  2025-09-05 11:02:07 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:08 App\Notifications\NewVisitorNotification . 428.88ms DONE
+  2025-09-05 11:02:08 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:08 App\Notifications\NewVisitorNotification . 109.37ms FAIL
+  2025-09-05 11:02:08 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:08 App\Notifications\NewVisitorNotification . 405.32ms DONE
+  2025-09-05 11:02:08 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:09 App\Notifications\NewVisitorNotification . 212.04ms FAIL
+  2025-09-05 11:02:09 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:10 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-05 11:02:10 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:10 App\Notifications\NewVisitorNotification . 115.15ms FAIL
+  2025-09-05 11:02:10 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:10 App\Notifications\NewVisitorNotification . 437.06ms DONE
+  2025-09-05 11:02:10 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:10 App\Notifications\NewVisitorNotification . 116.00ms FAIL
+  2025-09-05 11:02:10 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:11 App\Notifications\NewVisitorNotification . 716.19ms DONE
+  2025-09-05 11:02:11 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:11 App\Notifications\NewVisitorNotification . 115.50ms FAIL
+  2025-09-05 11:02:11 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:12 App\Notifications\NewVisitorNotification . 431.15ms DONE
+  2025-09-05 11:02:12 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:12 App\Notifications\NewVisitorNotification . 117.62ms FAIL
+  2025-09-05 11:02:12 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:13 App\Notifications\NewVisitorNotification . 677.88ms DONE
+  2025-09-05 11:02:13 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:13 App\Notifications\NewVisitorNotification . 115.37ms FAIL
+  2025-09-05 11:02:13 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:13 App\Notifications\NewVisitorNotification . 517.80ms DONE
+  2025-09-05 11:02:13 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:13 App\Notifications\NewVisitorNotification . 198.16ms FAIL
+  2025-09-05 11:02:13 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:15 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-05 11:02:15 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:15 App\Notifications\NewVisitorNotification . 357.14ms FAIL
+  2025-09-05 11:02:15 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:15 App\Notifications\NewVisitorNotification . 393.30ms DONE
+  2025-09-05 11:02:15 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:16 App\Notifications\NewVisitorNotification . 117.57ms FAIL
+  2025-09-05 11:02:16 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:16 App\Notifications\NewVisitorNotification . 355.94ms DONE
+  2025-09-05 11:02:16 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:16 App\Notifications\NewVisitorNotification . 116.70ms FAIL
+  2025-09-05 11:02:16 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:16 App\Notifications\NewVisitorNotification . 412.95ms DONE
+  2025-09-05 11:02:17 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:17 App\Notifications\NewVisitorNotification . 116.53ms FAIL
+  2025-09-05 11:02:17 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:17 App\Notifications\NewVisitorNotification . 376.46ms DONE
+  2025-09-05 11:02:17 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:17 App\Notifications\NewVisitorNotification . 116.56ms FAIL
+  2025-09-05 11:02:17 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:18 App\Notifications\NewVisitorNotification . 378.45ms DONE
+  2025-09-05 11:02:18 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:18 App\Notifications\NewVisitorNotification . 194.09ms FAIL
+  2025-09-05 11:02:18 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:18 App\Notifications\NewVisitorNotification . 762.30ms DONE
+  2025-09-05 11:02:19 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:19 App\Notifications\NewVisitorNotification . 358.71ms DONE
+  2025-09-05 11:02:19 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:19 App\Notifications\NewVisitorNotification . 108.54ms FAIL
+  2025-09-05 11:02:19 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:19 App\Notifications\NewVisitorNotification . 442.92ms DONE
+  2025-09-05 11:02:19 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:20 App\Notifications\NewVisitorNotification . 373.33ms DONE
+  2025-09-05 11:02:20 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:20 App\Notifications\NewVisitorNotification . 106.64ms FAIL
+  2025-09-05 11:02:20 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:20 App\Notifications\NewVisitorNotification . 426.16ms DONE
+  2025-09-05 11:02:20 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:21 App\Notifications\NewVisitorNotification . 359.26ms DONE
+  2025-09-05 11:02:21 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:21 App\Notifications\NewVisitorNotification . 106.64ms FAIL
+  2025-09-05 11:02:21 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:21 App\Notifications\NewVisitorNotification . 334.36ms DONE
+  2025-09-05 11:02:21 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:22 App\Notifications\NewVisitorNotification . 371.77ms DONE
+  2025-09-05 11:02:22 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:22 App\Notifications\NewVisitorNotification . 366.86ms FAIL
+  2025-09-05 11:02:22 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:22 App\Notifications\NewVisitorNotification . 332.53ms DONE
+  2025-09-05 11:02:22 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:23 App\Notifications\NewVisitorNotification . 368.91ms DONE
+  2025-09-05 11:02:23 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:23 App\Notifications\NewVisitorNotification . 103.75ms FAIL
+  2025-09-05 11:02:23 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:23 App\Notifications\NewVisitorNotification . 361.58ms DONE
+  2025-09-05 11:02:23 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:24 App\Notifications\NewVisitorNotification . 381.91ms DONE
+  2025-09-05 11:02:24 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:24 App\Notifications\NewVisitorNotification . 201.64ms FAIL
+  2025-09-05 11:02:24 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:25 App\Notifications\NewVisitorNotification . 774.95ms DONE
+  2025-09-05 11:02:25 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:25 App\Notifications\NewVisitorNotification . 388.48ms DONE
+  2025-09-05 11:02:25 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:25 App\Notifications\NewVisitorNotification . 108.70ms FAIL
+  2025-09-05 11:02:25 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:25 App\Notifications\NewVisitorNotification . 425.92ms DONE
+  2025-09-05 11:02:25 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:26 App\Notifications\NewVisitorNotification . 384.23ms DONE
+  2025-09-05 11:02:26 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:26 App\Notifications\NewVisitorNotification . 111.61ms FAIL
+  2025-09-05 11:02:26 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:26 App\Notifications\NewVisitorNotification . 412.99ms DONE
+  2025-09-05 11:02:26 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:27 App\Notifications\NewVisitorNotification . 384.35ms DONE
+  2025-09-05 11:02:27 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:27 App\Notifications\NewVisitorNotification . 110.38ms FAIL
+  2025-09-05 11:02:27 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:27 App\Notifications\NewVisitorNotification . 402.97ms DONE
+  2025-09-05 11:02:27 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:28 App\Notifications\NewVisitorNotification . 363.37ms DONE
+  2025-09-05 11:02:28 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:28 App\Notifications\NewVisitorNotification . 116.96ms FAIL
+  2025-09-05 11:02:28 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:28 App\Notifications\NewVisitorNotification . 399.17ms DONE
+  2025-09-05 11:02:28 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:29 App\Notifications\NewVisitorNotification . 363.36ms DONE
+  2025-09-05 11:02:29 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:29 App\Notifications\NewVisitorNotification . 118.35ms FAIL
+  2025-09-05 11:02:29 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:29 App\Notifications\NewVisitorNotification . 404.25ms DONE
+  2025-09-05 11:02:29 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:30 App\Notifications\NewVisitorNotification . 336.27ms DONE
+  2025-09-05 11:02:30 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:30 App\Notifications\NewVisitorNotification . 193.13ms FAIL
+  2025-09-05 11:02:30 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:31 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-05 11:02:31 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:31 App\Notifications\NewVisitorNotification . 386.66ms DONE
+  2025-09-05 11:02:31 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:31 App\Notifications\NewVisitorNotification . 109.17ms FAIL
+  2025-09-05 11:02:31 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:32 App\Notifications\NewVisitorNotification . 389.65ms DONE
+  2025-09-05 11:02:32 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:32 App\Notifications\NewVisitorNotification . 370.38ms DONE
+  2025-09-05 11:02:32 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:32 App\Notifications\NewVisitorNotification . 104.34ms FAIL
+  2025-09-05 11:02:32 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:33 App\Notifications\NewVisitorNotification . 377.76ms DONE
+  2025-09-05 11:02:33 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:33 App\Notifications\NewVisitorNotification . 109.34ms FAIL
+  2025-09-05 11:02:33 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:33 App\Notifications\NewVisitorNotification . 344.26ms DONE
+  2025-09-05 11:02:33 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:33 App\Notifications\NewVisitorNotification . 104.72ms FAIL
+  2025-09-05 11:02:33 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:34 App\Notifications\NewVisitorNotification . 396.53ms DONE
+  2025-09-05 11:02:34 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:34 App\Notifications\NewVisitorNotification . 102.67ms FAIL
+  2025-09-05 11:02:34 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:34 App\Notifications\NewVisitorNotification . 315.39ms DONE
+  2025-09-05 11:02:34 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:34 App\Notifications\NewVisitorNotification . 191.78ms FAIL
+  2025-09-05 11:02:34 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:35 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-05 11:02:35 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:36 App\Notifications\NewVisitorNotification . 130.85ms FAIL
+  2025-09-05 11:02:36 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:36 App\Notifications\NewVisitorNotification . 437.52ms DONE
+  2025-09-05 11:02:36 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:36 App\Notifications\NewVisitorNotification . 127.47ms FAIL
+  2025-09-05 11:02:36 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:37 App\Notifications\NewVisitorNotification . 463.12ms DONE
+  2025-09-05 11:02:37 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:37 App\Notifications\NewVisitorNotification . 128.40ms FAIL
+  2025-09-05 11:02:37 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:37 App\Notifications\NewVisitorNotification . 447.94ms DONE
+  2025-09-05 11:02:37 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-05 11:02:37 App\Notifications\NewVisitorNotification . 129.56ms FAIL
+  2025-09-16 12:07:59 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-16 12:08:00 App\Notifications\NewVisitorNotification . 747.89ms DONE
+  2025-09-16 12:08:00 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-16 12:08:00 App\Notifications\NewVisitorNotification . 302.02ms DONE
+  2025-09-16 13:36:13 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-16 13:36:14 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-16 13:36:14 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-16 13:36:14 App\Notifications\NewVisitorNotification . 408.22ms DONE
+  2025-09-16 13:43:00 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-16 13:43:01 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-16 13:43:01 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-16 13:43:01 App\Notifications\NewVisitorNotification . 426.85ms DONE
+  2025-09-16 15:13:02 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-16 15:13:04 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-16 15:13:04 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-16 15:13:04 App\Notifications\NewVisitorNotification . 433.22ms DONE
+  2025-09-17 11:18:28 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-17 11:18:29 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-17 11:18:29 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-17 11:18:30 App\Notifications\NewVisitorNotification . 332.52ms DONE
+  2025-09-18 07:49:30 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 07:49:32 App\Notifications\NewVisitorNotification ....... 2s DONE
+  2025-09-18 07:49:32 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 07:49:33 App\Notifications\NewVisitorNotification . 277.58ms DONE
+  2025-09-18 07:49:33 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 07:49:33 App\Notifications\NewVisitorNotification . 296.73ms DONE
+  2025-09-18 10:01:41 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 10:01:42 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-18 10:01:42 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 10:01:42 App\Notifications\NewVisitorNotification . 348.85ms DONE
+  2025-09-18 10:01:43 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 10:01:43 App\Notifications\NewVisitorNotification . 268.72ms DONE
+  2025-09-18 10:01:43 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 10:01:43 App\Notifications\NewVisitorNotification . 267.51ms DONE
+  2025-09-18 10:01:43 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 10:01:43 App\Notifications\NewVisitorNotification . 306.35ms DONE
+  2025-09-18 10:01:43 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 10:01:44 App\Notifications\NewVisitorNotification . 324.63ms DONE
+  2025-09-18 10:24:37 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 10:24:38 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-18 10:24:38 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 10:24:38 App\Notifications\NewVisitorNotification . 372.00ms DONE
+  2025-09-18 10:24:38 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 10:24:38 App\Notifications\NewVisitorNotification . 380.55ms DONE
+  2025-09-18 11:07:57 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 11:07:58 App\Notifications\NewVisitorNotification . 940.23ms DONE
+  2025-09-18 11:07:58 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 11:07:58 App\Notifications\NewVisitorNotification . 337.22ms DONE
+  2025-09-18 11:07:58 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 11:07:59 App\Notifications\NewVisitorNotification . 337.49ms DONE
+  2025-09-18 12:20:05 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 12:20:06 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-18 12:20:06 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 12:20:06 App\Notifications\NewVisitorNotification . 357.65ms DONE
+  2025-09-18 14:49:28 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 14:49:29 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-18 14:49:29 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 14:49:30 App\Notifications\NewVisitorNotification . 360.14ms DONE
+  2025-09-18 18:08:43 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 18:08:44 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-18 18:08:44 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-18 18:08:45 App\Notifications\NewVisitorNotification . 665.14ms DONE
+  2025-09-19 12:12:37 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-19 12:12:38 App\Notifications\NewVisitorNotification . 662.10ms DONE
+  2025-09-19 12:12:38 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-19 12:12:38 App\Notifications\NewVisitorNotification . 317.74ms DONE
+  2025-09-19 15:52:12 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-19 15:52:13 App\Notifications\NewVisitorNotification . 925.50ms DONE
+  2025-09-19 15:52:13 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-19 15:52:13 App\Notifications\NewVisitorNotification . 388.31ms DONE
+  2025-09-20 11:22:05 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-20 11:22:07 App\Notifications\NewVisitorNotification ....... 2s DONE
+  2025-09-20 11:22:07 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-20 11:22:08 App\Notifications\NewVisitorNotification . 333.87ms DONE
+  2025-09-22 14:26:13 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-22 14:26:14 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-22 14:26:14 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-22 14:26:14 App\Notifications\NewVisitorNotification . 334.32ms DONE
+  2025-09-23 09:52:56 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-23 09:52:58 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-23 09:52:58 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-23 09:52:58 App\Notifications\NewVisitorNotification . 330.65ms DONE
+  2025-09-23 16:17:24 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-23 16:17:25 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-23 16:17:25 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-23 16:17:25 App\Notifications\NewVisitorNotification . 274.01ms DONE
+  2025-09-23 18:04:01 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-23 18:04:01 App\Notifications\NewVisitorNotification . 845.99ms DONE
+  2025-09-23 18:04:01 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-23 18:04:02 App\Notifications\NewVisitorNotification . 302.56ms DONE
+  2025-09-24 11:47:53 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-24 11:47:57 App\Notifications\NewVisitorNotification ....... 4s DONE
+  2025-09-24 11:47:57 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-24 11:47:58 App\Notifications\NewVisitorNotification . 397.18ms DONE
+  2025-09-26 13:02:51 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-26 13:02:52 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-26 13:02:52 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-26 13:02:53 App\Notifications\NewVisitorNotification . 382.37ms DONE
+  2025-09-26 13:02:53 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-26 13:02:53 App\Notifications\NewVisitorNotification . 334.42ms DONE
+  2025-09-26 16:35:56 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-26 16:35:56 App\Notifications\NewVisitorNotification . 864.10ms DONE
+  2025-09-26 16:35:56 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-26 16:35:57 App\Notifications\NewVisitorNotification . 305.80ms DONE
+  2025-09-29 16:39:39 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-29 16:39:40 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-09-29 16:39:40 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-29 16:39:40 App\Notifications\NewVisitorNotification . 387.73ms DONE
+  2025-09-30 10:48:40 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-30 10:48:43 App\Notifications\NewVisitorNotification ....... 2s DONE
+  2025-09-30 10:48:43 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-30 10:48:43 App\Notifications\NewVisitorNotification . 424.77ms DONE
+  2025-09-30 11:04:56 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-30 11:04:57 App\Notifications\NewVisitorNotification . 960.74ms DONE
+  2025-09-30 11:04:57 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-09-30 11:04:58 App\Notifications\NewVisitorNotification . 468.09ms DONE
+  2025-10-01 14:29:17 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-01 14:29:20 App\Notifications\NewVisitorNotification ....... 2s DONE
+  2025-10-01 14:29:20 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-01 14:29:21 App\Notifications\NewVisitorNotification . 323.25ms DONE
+  2025-10-04 11:40:14 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-04 11:40:16 App\Notifications\NewVisitorNotification ....... 2s DONE
+  2025-10-04 11:40:16 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-04 11:40:17 App\Notifications\NewVisitorNotification . 330.54ms DONE
+  2025-10-06 09:40:50 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-06 09:40:52 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-10-06 09:40:52 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-06 09:40:53 App\Notifications\NewVisitorNotification . 314.03ms DONE
+  2025-10-06 10:31:44 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-06 10:31:45 App\Notifications\NewVisitorNotification . 690.20ms DONE
+  2025-10-06 10:31:45 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-06 10:31:45 App\Notifications\NewVisitorNotification . 321.04ms DONE
+  2025-10-06 10:59:51 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-06 10:59:56 App\Notifications\NewVisitorNotification ....... 5s DONE
+  2025-10-06 10:59:56 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-06 10:59:57 App\Notifications\NewVisitorNotification . 499.89ms DONE
+  2025-10-06 11:12:25 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-06 11:12:26 App\Notifications\NewVisitorNotification . 787.57ms DONE
+  2025-10-06 11:12:26 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-06 11:12:26 App\Notifications\NewVisitorNotification . 340.51ms DONE
+  2025-10-10 10:16:21 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-10 10:16:22 App\Notifications\NewVisitorNotification . 994.98ms DONE
+  2025-10-10 10:16:22 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-10 10:16:22 App\Notifications\NewVisitorNotification . 365.72ms DONE
+  2025-10-13 09:52:35 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-13 09:52:37 App\Notifications\NewVisitorNotification ....... 2s DONE
+  2025-10-13 09:52:37 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-13 09:52:38 App\Notifications\NewVisitorNotification . 351.43ms DONE
+  2025-10-14 10:32:16 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-14 10:32:19 App\Notifications\NewVisitorNotification ....... 2s DONE
+  2025-10-14 10:32:19 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-14 10:32:19 App\Notifications\NewVisitorNotification . 395.84ms DONE
+  2025-10-15 13:25:10 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-15 13:25:12 App\Notifications\NewVisitorNotification ....... 1s DONE
+  2025-10-15 13:25:12 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-15 13:25:12 App\Notifications\NewVisitorNotification . 368.04ms DONE
+  2025-10-15 13:26:48 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-15 13:26:49 App\Notifications\NewVisitorNotification . 371.67ms DONE
+  2025-10-15 13:26:49 App\Notifications\NewVisitorNotification ....... RUNNING
+  2025-10-15 13:26:49 App\Notifications\NewVisitorNotification . 346.64ms DONE
+
+   Illuminate\Database\QueryException 
+
+  SQLSTATE[HY000] [2002] Connection refused (Connection: mysql, SQL: select * from `cache` where `key` in (illuminate:queue:restart))
+
+  at vendor/laravel/framework/src/Illuminate/Database/Connection.php:825
+    821▕                     $this->getName(), $query, $this->prepareBindings($bindings), $e
+    822▕                 );
+    823▕             }
+    824▕ 
+  ➜ 825▕             throw new QueryException(
+    826▕                 $this->getName(), $query, $this->prepareBindings($bindings), $e
+    827▕             );
+    828▕         }
+    829▕     }
+
+      [2m+42 vendor frames [22m
+
+  43  artisan:13
+      Illuminate\Foundation\Application::handleCommand()
+

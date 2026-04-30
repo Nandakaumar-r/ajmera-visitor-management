@@ -1,0 +1,61 @@
+{
+  "name": "NEXOHR",
+  "description": "Your trusted technology partner",
+  "lang": "en",
+  "dir": "ltr",
+  "short_name": "NEXOHR",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#184266",
+  "theme_color": "#F05736",
+  "orientation": "any",
+  "protocol_handlers": [
+    {
+      "protocol": "web+jngl",
+      "url": "/"
+    }
+  ],
+  "display_override": [
+    "window-controls-overlay",
+    "standalone",
+    "fullscreen",
+    "browser",
+    "minimal-ui"
+  ],
+  "screenshots": [
+    {
+      "src": "pwv0nvs5wumfookhzwte.webp",
+      "sizes": "1280x800",
+      "type": "image/webp",
+      "description": "The type of your image, such as image/png"
+    }
+  ],
+  "icons": [
+    {
+      "src": "/images/icons/fidelislogo-180.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/icons/fidelislogo-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    }
+  ],
+  "id": "NEXOHR",
+  "categories": [
+    "productivity"
+  ],
+  "shortcuts": [
+    {
+      "name": "NEXOHR",
+      "url": "/",
+      "description": "Jump direct in the world of NEXOHR"
+    }
+  ],
+  "edge_side_panel": {
+    "preferred_width": 255
+  }
+}

@@ -1,0 +1,187 @@
+Employee ID	Employee Name	Employee Email	Employee Designation	Employee Department
+1065	Prashanth B	prashant.b@fidelisgroup.in	Recruitment Manager	Recruitment 
+11362	Jayashree Gangadhar Naik	jayashree.naik@fidelisgroup.in	Lead-Talent Acquisition	Recruitment 
+11913	Hemavathi	N/A	House Keeping	Admin
+12285	Chandan Premsagar Tiwari	chandan.tiwari@fidelisgroup.in	Associate Account Manager	Recruitment 
+12287	Kavitha C	Kavitha.c@fidelisgroup.in	Sr Finance Executive	Accounts
+12916	Vidyashree Bakkanavar	vidyashree.b@fidelisgroup.in	Senior Talent Acquisition Executive	Recruitment 
+12919	Suneel Kumar K C	suneel.kc@fidelisgroup.in	Senior Analyst Finance	Finance 
+12923	David Thangam S	david.thangam@fidelisgroup.in	Assistant Manager-Delivery	Recruitment 
+13044	S Soni Priya	sonali.p@fidelisgroup.in	Sr . Talent Acquisition Executive	Recruitment 
+13319	Girisha H	girisha.h@fidelisgroup.in	Delivery lead	Recruitment 
+13569	Avinash Kadam	avinash.kadam@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+13575	Bhoomika N	Bhoomika.n@fidelisgroup.in	Executive - Talent Acquisition	Recruitment 
+13577	Sangeetha V S	Sangeetha.n@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+13997	Uday Bovi	uday.bovi@fidelisgroup.in	MI Coordinator	HRBP
+13998	Brishali Mukherjee	brishali.mukherjee@fidelisgroup.in	Sr. Executive-Client Operations	Recruitment 
+14000	Smita Pal	smita.pal@fidelisgroup.in	Associate Team lead – Recruitment	Recruitment 
+14002	Prerna Sen	prerna.s@fidelisgroup.in	Recruitment Trainee	Recruitment 
+14004	Suvarna S Bilgundi	suvarna.b@fidelisgroup.in	Recruitment Trainee	Recruitment 
+14011	Sathya Karthick	sathya.k@fidelisgroup.in	Executive - Talent Acquisition	Recruitment 
+14019	Arun MT	arun.mt@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+14250	Samhitha S	samhitha.s@fidelisgroup.in	Account Executive	Finance 
+14570	Shwetha M S Rao	shwetha.rao@fidelisgroup.in	Assistant Manager - Legal Affairs	Legal
+14760	Savita Jaysheel Desai	savita.desai@fidelisgroup.in	Team Lead - Delivery	Recruitment 
+14762	V A Zainab Farheen	zainab.farheen@fidelisgroup.in	Senior Lead - HRBP	HRBP
+15022	Sujay C	sujay.c@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+15024	K G Anish	anish.gk@fidelisgroup.in	Associate Account Delivery Manager	Recruitment 
+15237	Rashmi K Kulkarni	rashmi.k@fidelisgroup.in	Lead-Talent Acquisition	Recruitment 
+15238	Indukuri Kavitha	kavitha.i@fidelisgroup.in	Sr. Talent Acquisition Executive	Recruitment 
+15240	Priyanka M R	priyanka.s@fidelisgroup.in	Sr. Business manager	Business
+15249	Bondili Sireesha	sireesha.b@fidelisgroup.in	Team Lead - Delivery	Recruitment 
+15254	Reddy Jwala Manohar	manohar.r@fidelisgroup.in	HR Business Partner .	HRBP
+15427	Sarana Aishwarya	aishwarya.s@fidelisgroup.in	Senior Talent Acquisition Specialist	Recruitment 
+15902	Ria Kundu	ria.kundu@hpe.com	Hr Business Partner	HRBP
+16106	Joyeeta Ghosal	joyeeta.g@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+16107	Prakyath P Mestha	prakyath.m@fidelisgroup.in	Sr. Executive - Vendors Ops & Support	Vendor
+16309	Pradeep S R	pradeep.sr@fidelisgroup.in	Associate Vice President - Pre-Sales & Solutions	Business
+16312	Rupesh	rupesh.c@fidelisgroup.in	Payroll Executive	Payroll
+16314	Chethana N	chethana.vinod@fidelisgroup.in	Executive - HR and Admin	HR and Admin
+234	Raghavendra Mesta	raghavendra@fidelisgroup.in	Chief HR Officer & Head of Operations	HR
+456	Senthil J	senthil.j@fidelisgroup.in	Manager - Payroll & operations	Payroll
+5055	Ramya K	ramya.k@fidelisgroup.in	Assistant Manager - Corporate Hiring	Recruitment 
+5380	Rajesh P	rajesh.franklin@fidelisgroup.in	Business Manager	Business
+5582	Roshan Alva	roshan.alva@fidelisgroup.in	General Manager - Delivery	Recruitment 
+6468	Mallikarjuna S Pujari	N/A	Admin Executive	Admin
+6793	Sunith S V	sunith.s@fidelisgroup.in	Sr.Executive - Compliance	HR
+7221	Kavana B G	kavana.g@fidelisgroup.in	Executive Finance	Accounts
+7624	Malupula Ramanjaneyulu	ramanjaneyulu.m@fidelisgroup.in	Team Lead - HR	HR
+7730	Prashant Kokane	prashant.kokane@fidelisgroup.in	General Manager - Delivery (IT Services)	TECH
+7992	Akshata Gopal Mesta	akshata.m@fidelisgroup.in	Executive - HR	HR
+8482	Prashanth Kumar Shetty	prashanth.shetty@fidelisgroup.in	Assistant Manager-Talent Acquisition(General Staffing)	Recruitment 
+8644	Pooja Aakash Mane	pooja.t@fidelisgroup.in	Account Manager	Recruitment 
+8769	Bindu Sunil	bindu.s@fidelisgroup.in	Business Manager	Recruitment 
+9164	Udaya B Mestha	udaya.m@fidelisgroup.in	Sr. Manager - HR & Client Engagement	HR
+17058	Basavaraj Halli	Basavaraj.h@fidelisgroup.in	Open-Source Developer	TECH
+16722	Chetan Vinobha Shetty	chetan.s@fidelisgroup.in	Head - Talent Acquisition	Recruitment 
+16868	Shradda Kashinath Anvekar	shradda.a@fidelisgroup.in	Vendor Management Executive	Accounts
+17978	Arpith Kumar	arpith.k@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+17220	Rakesh Kumar Sutar	rakesh.s@fidelisgroup.in	Python Developer  	TECH
+17226	Pradeep D	Pradeep.d@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+17431	V Rajeshwari	rajeshwari.v@fidelisgroup.in	Talent Acquisition Team Lead	Recruitment 
+17503	Pavitra	pavitra.s@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+17507	Meghana	meghana.p@fidelisgroup.in	Sr. Talent Acquisition	Recruitment 
+17795	Nandesh T	nandesh.t@fidelisgroup.in	Senior Analyst Finance	Accounts
+17796	Champa B V	champa.v@fidelisgroup.in	Associate Vice President - Strategic Recruitments	Recruitment 
+17928	Aaryasree V Nair	aryasree.n@fidelisgroup.in	Sr. Talent Acquisition	Recruitment 
+17927	Monica Jagadeesh Fernandes	monica.f@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+17970	Ganesh A	ganesh.a@fidelisgroup.in	Business Development Manager	Business
+17971	Padmavati Hemant Mani	padmavati.m@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+17972	Kundanam Jaya Shree	jayashree.k@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+18199	Kalpitha Y	kalpitha.y@fidelisgroup.in	HR Business partner	HRBP
+18321	Sukanya K	sukanya.k@fidelisgroup.in	Sr. Talent Acquisition Executive	Recruitment 
+18322	Rajeshnayak	rajesh.n@fidelisgroup.in	SOC Analyst L1	TECH
+18444	Mohammed Nasim Idrisi	nasim.i@fidelisgroup.in	Sales Head - Managed Services	sales
+18446	Sourigari Sai Pavan	saipavan.s@fidelisgroup.in	Recruitment Manager	Recruitment 
+18507	Sandeep B K	sandeep.k@fidelisgroup.in	Executive – Business Development	Business
+18508	Sabarinathan Muthusamy	sabarinathan.m@fidelisgroup.in	Python Developer	TECH
+18510	V Poornima	poornima.v@fidelisgroup.in	Delivery Lead	Recruitment 
+18698	Naik Chetan Laxman	chetan.n@fidelisgroup.in	Senior Software Engineer	TECH
+18568	Santosh Nagesha Mestha	santosha.m@fidelisgroup.in	HR Executive	HR
+19143	Sandhya Shree	sandhya.s@fidelisgroup.in	Business Development Manager	Business
+19145	Kantegari Nikhil Kumar	nikhil.kumar@fidelisgroup.in	IT Recruiter	Recruitment 
+19154	Rohit Gani	rohit.gani@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+19244	Swapnil Krushnat Kadam	swapnil.krushnat@fidelisgroup.in	Service Desk Engineer	Recruitment 
+19249	Roopa R	roopa.r@fidelisgroup.in	Lead -Talent Acquisition	Recruitment 
+19251	Neeraja GS	neeraja.gs@fidelisgroup.in	Talent Acquisition lead	Recruitment 
+19253	GV Kusuma	gv.kusuma@fidelisgroup.in	Trainee Talent Acquisition	Recruitment 
+19252	Mallik ur Rahaman	rehaman.m@fidelisgroup.in	Trainee Talent Acquisition	Recruitment 
+19263	Gunashetty Suresh Sujan	sujan.gs@fidelisgroup.in	Trainee Talent Acquisition	Recruitment 
+19265	Sujitha J	sujitha.j@fidelisgroup.in	Trainee Talent Acquisition	Recruitment 
+19255	Pallavi M	pallavi.m1@fidelisgroup.in	Talent Acquisition Specialist	Recruitment 
+19256	Mohamed Hasheem Yunos	hasheem.y@fidelisgroup.in	Lead-Talent Acquisition	Recruitment 
+19257	J Bindhu Sekhar	bindhu.sekhar@fidelisgroup.in	Talent Acquisition Lead	Recruitment 
+19388	Bharath K V	bkv@fidelisgroup.in	Manager Compliance	Compliance 
+19319	Sharadhi D A	sharadhi.da@fidelisgroup.in	Senior Talent Acquisition Executive	Recruitment 
+19318	Sumedha Kodagali	sumedha.k@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+19321	Glinda Nikitha Paul	nikitha.p@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+19320	Rizwan Ali Khan	rizwan.k@fidelisgroup.in	Lead Talent Acquisition Executive	Recruitment 
+19322	Nikhita C S	nikhita.cs@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+19442	Udaya Kumar Reddy S	udaykumar.reddy@fidelisgroup.in	Senior Account Manager	Recruitment 
+19443	Sandesh J M	sandesh.jm@fidelisgroup.in	Field Recruiter	Recruitment 
+19444	Veena Saseendran G	veena.saseendran@fidelisgroup.in	Senior Business Manager	Business
+19609	Nanda Kumar R	nanda.kumar@fidelisgroup.in	Web Developer	TECH
+19610	Sridhar R	sridhar.r@fidelisgroup.in	Odoo Implementation Manager	TECH
+19750	Santhosh K	santosh.k@fidelisgroup.in	Senior Talent Acquisition Specialist	Recruitment 
+19751	Reshmy Raveendran R	reshmy.r@fidelisgroup.in	IC-Talent Acquisition	Recruitment 
+19752	Rajni Kumari	rajni.kumari@fidelisgroup.in	Inside Sales Executive	sales
+19753	Kalaivani Sarathi	kalaivani.s@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+19953	Ganesh Parida	Nil	Admin - House Keeping	Admin
+19954	Arun Janardhan Bhat	arun.jb@fidelisgroup.in	Senior Talent Acquisition Specialist	Recruitment 
+19957	Naveen K Dongare	naveen.k@fidelisgroup.in	Talent Acquisition Specialist	Recruitment 
+19958	Prabhudeva	prabhudeva.b@fidelisgroup.in	Odoo developer	TECH
+19959	Rajesh Belavatag	rajesh.b@fidelisgroup.in	Sr. Talent Acquisition Specialist	Recruitment 
+19960	Risa Serene Joe	risa.serene@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+19962	Shyamala Nagarajan	shyamala.n@fidelisgroup.in	Team Lead-Talent Acquisition	Recruitment 
+19963	T Vijai	vijai.t@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+20116	Amrita D Sinha	amrita.s@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+20115	Joona Thomas	joona.t@fidelisgroup.in	Senior Talent Acquisition Executive	Recruitment 
+20118	Nisha Goswami	nisha.g@fidelisgroup.in	Senior Talent Acquisition Specialist	Recruitment 
+20117	Sindhu Thomas	sindhu.t@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+20120	Akula Monesh	akula.monesh@fidelisgroup.in	Recruitment Trainee	Recruitment 
+20125	Duruvanthraj B G	duruvanthraj.bg@fidelisgroup.in	Recruitment Trainee	Recruitment 
+20124	Kuppachi V.S.Sai Viswanadha Charan	kuppachi.sai@fidelisgroup.in	Recruitment Trainee	Recruitment 
+20123	Mohamed Aboobacker Siddiq Zakir Ushian	mohamed.aboobacker@fidelisgroup.in	Recruitment Trainee	Recruitment 
+20127	Prathiksha H S	prathiksha.hs@fidelisgroup.in	Recruitment Trainee	Recruitment 
+20126	Swathi M	swathi.m@fidelisgroup.in	Recruitment Trainee	Recruitment 
+20121	R B Abhishek	abhishek.rb@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+20122	Vinay Kumar Bhuvaneshwar Reddy	vinay.kumar@fidelisgroup.in	IT Recruiter - Voice Hiring	Recruitment 
+20128	Aravind Kotyalakar	aravind.k@fidelisgroup.in	Recruitment Trainee	Recruitment 
+20129	G Jayarani	jayarani.g@fidelisgroup.in	Executive - Culture & Process	HR
+20130	Rakshitha N Eswar	rakshitha.n@fidelisgroup.in	HR Executive	HR
+20318	Abdul Ameer N	abdul.ameer@fidelisgroup.in	Odoo Developer	TECH
+20319	Sahil Sudhakar Gadge	Sahil.g@fidelisgroup.in	Talent Acquisition Executive	Recruitment 
+20321	Anushree M S	anushree.ms@fidelisgroup.in	HR Executive	HR
+20322	Karteek K R	Karteek.kr@fidelisgroup.in	Front End Developer	TECH
+New	Samrat D N	samrat.d@fidelisgroup.in	Senior Business Manager	Business
+4863	Deva Kumar	devakumar.m@fidelisgroup.in	HR Lead & Operation	HR
+{
+    "SUBRAHMANYA B A": {
+        "id": "EMP001",
+        "position": "CEO",
+        "department": "Executive",
+        "email": "subrahmanya.ba@fidelisgroup.in"
+    },
+    "NAGASHREE KS": {
+        "id": "EMP002",
+        "position": "CFO",
+        "department": "Finance",
+        "email": "nagashree.ks@fidelisgroup.in"
+    },
+    "SHRIDHARA SUNDARARAJ": {
+        "id": "EMP003",
+        "position": "CTO",
+        "department": "Technology",
+        "email": "shridhara.s@fidelisgroup.in"
+    },
+    "NAIK CHETAN LAXMAN": {
+        "id": "EMP004",
+        "position": "SENIOR SOFTWARE ENGINEER",
+        "department": "Technology",
+        "email": "chetan.naik@fidelisgroup.in"
+    },
+    "CHETAN VINOBHA SHETTY": {
+        "id": "EMP005",
+        "position": "DELIVERY HEAD - SEARCH & SELECTION",
+        "department": "Delivery",
+        "email": "chetan.shetty@fidelisgroup.in"
+    },
+    "UDAY KUMAR REDDY S": {
+        "id": "EMP006",
+        "position": "SENIOR ACCOUNT MANAGER",
+        "department": "Accounts",
+        "email": "uday.reddy@fidelisgroup.in"
+    },
+    "RAGHAVENDRA MESTA": {
+        "id": "EMP007",
+        "position": "CHRO & HEAD OPERATIONS",
+        "department": "HR",
+        "email": "raghavendra.mesta@fidelisgroup.in"
+    },
+    "CHANDRASEKAR G": {
+        "id": "EMP008",
+        "position": "COO",
+        "department": "Operations",
+        "email": "chandrasekar.g@fidelisgroup.in"
+    }
+}

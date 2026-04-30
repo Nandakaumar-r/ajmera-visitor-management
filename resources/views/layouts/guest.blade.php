@@ -79,14 +79,14 @@
                 <div class="relative block md:hidden h-auto overflow-hidden">
                     <div id="mobileSlider" class="w-full">
                         <!-- Video Slide -->
-                        <div class="relative w-full" style="height: 100%">
+                        <!-- <div class="relative w-full" style="height: 100%">
                             <video class="w-full object-cover" style="height: 100%" autoplay muted loop playsinline>
                                 <source src="{{ asset('video-mob.mp4') }}" type="video/mp4">
                             </video>
-                        </div>
+                        </div> -->
                         <!-- Banner Slide -->
                         <div class="relative w-full" style="height: 100%">
-                            <img src="{{ asset('img-mob-1.jpeg') }}" style="height: 100%"  class="w-full object-cover" alt="Mobile Banner 1">
+                            <img src="{{ asset('Ajmera.jpg') }}" style="height: 100%"  class="w-full object-cover" alt="Mobile Banner 1">
                         </div>
                     </div>
                 </div>

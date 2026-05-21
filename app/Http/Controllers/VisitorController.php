@@ -50,14 +50,12 @@ class VisitorController extends Controller
 
     public function create()
     {
-        $users = \App\Models\User::orderBy('name')->get();
-
         if (auth()->user()->hasRole('reception')) {
-            return view('visitors.create', compact('users'))
+            return view('visitors.create')
                 ->layout('layouts.reception');
         }
 
-        return view('visitors.create', compact('users'));
+        return view('visitors.create');
     }
 
     private function saveBase64Image($base64Data, $visitorName)
@@ -106,7 +104,7 @@ class VisitorController extends Controller
                 'email' => 'nullable|email|max:255',
                 'phone_number' => 'required|string|max:20',
                 'purpose' => 'required|string|max:255',
-                'whom_to_visit' => 'required|exists:users,id',
+                'whom_to_visit' => 'required|string|max:255',
                 'government_id_type' => 'required|string',
                 'government_id_last_digits' => 'required|string|max:10',
                 'company' => 'nullable|string|max:255',
@@ -169,7 +167,7 @@ class VisitorController extends Controller
             Log::info('Visitor saved successfully', ['visitor_id' => $visitor->id]);
 
             // Send notifications
-            $personToVisit = \App\Models\User::find($visitor->whom_to_visit);
+            $personToVisit = \App\Models\User::where('name', $visitor->whom_to_visit)->first();
             $hrUsers = \App\Models\User::role('hr')->get();
 
             // Notify person to visit

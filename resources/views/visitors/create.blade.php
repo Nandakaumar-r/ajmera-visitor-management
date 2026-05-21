@@ -83,14 +83,9 @@
 
                             <div>
                                 <label for="whom_to_visit" class="block text-sm font-medium text-gray-700 mb-2">Whom to Visit</label>
-                                <select name="whom_to_visit" id="whom_to_visit" 
-                                        class="mt-1 block w-full border border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500" 
-                                        required>
-                                    <option value="">Select Employee</option>
-                                    @foreach($users as $user)
-                                        <option value="{{ $user->id }}">{{ $user->name }}</option>
-                                    @endforeach
-                                </select>
+                                <input type="text" name="whom_to_visit" id="whom_to_visit"
+                                       class="mt-1 block w-full border border-gray-300 rounded-md shadow-sm py-2 px-3 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500"
+                                       maxlength="255" required>
                                 <p id="whom_to_visit_error" class="text-red-500 text-sm mt-1 hidden"></p>
                             </div>
 
@@ -243,7 +238,6 @@
     </div>
 
     @push('styles')
-    <link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
     <style>
         #stepper li {
             position: relative;
@@ -268,19 +262,8 @@
     @endpush
 
     @push('scripts')
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/signature_pad/1.5.3/signature_pad.min.js"></script>
     <script>
-        $(document).ready(function() {
-            // Initialize Select2
-            $('#whom_to_visit').select2({
-                placeholder: 'Search for a person to visit',
-                allowClear: true,
-                width: '100%'
-            });
-        });
-
         document.addEventListener('DOMContentLoaded', function() {
             // Initialize webcam
             const webcam = document.getElementById('webcam');
@@ -493,12 +476,12 @@
                     }
 
                     // Whom to Visit Validation
-                    if (!whomToVisit?.value) {
+                    if (!whomToVisit?.value?.trim()) {
                         isValid = false;
                         whomToVisit?.classList.add('border-red-500');
                         const errorEl = document.getElementById('whom_to_visit_error');
                         if (errorEl) {
-                            errorEl.textContent = 'Please select whom to visit.';
+                            errorEl.textContent = 'Please enter whom to visit.';
                             errorEl.classList.remove('hidden');
                         }
                     }
@@ -787,9 +770,7 @@
             // Populate Review Information
             function populateReviewInformation() {
                 const reviewContent = document.getElementById('review-content');
-                const whomToVisitSelect = document.getElementById('whom_to_visit');
-                const selectedOption = whomToVisitSelect.options[whomToVisitSelect.selectedIndex];
-                const whomToVisitText = selectedOption ? selectedOption.text : '';
+                const whomToVisitText = document.getElementById('whom_to_visit').value;
 
                 reviewContent.innerHTML = `
                     <div class="bg-gray-50 p-4 rounded-md">

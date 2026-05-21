@@ -14,6 +14,7 @@ class Visitor extends Model
         'full_name',
         'contact_information',
         'purpose_of_visit',
+        'whom_to_visit',
         'government_id_type',
         'government_id_last_digits',
         'additional_details',
@@ -42,11 +43,6 @@ class Visitor extends Model
         return $this->belongsTo(User::class, 'created_by');
     }
     
-    public function whomToVisitUser()
-    {
-        return $this->belongsTo(User::class, 'whom_to_visit');
-    }
-
     public function approver()
     {
         return $this->belongsTo(User::class, 'approved_by');
@@ -57,8 +53,4 @@ class Visitor extends Model
         return $this->hasMany(VisitorLog::class);
     }
 
-    public function whom_to_visit_user()
-    {
-        return $this->belongsTo(User::class, 'whom_to_visit');
-    }
 }

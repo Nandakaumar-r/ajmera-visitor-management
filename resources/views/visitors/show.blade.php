@@ -52,7 +52,7 @@
                                         <dt class="text-sm font-medium text-gray-500">Whom to Visit</dt>
                                         <dd class="mt-1 text-sm text-gray-900">
                                             <span class="px-2 inline-flex text-xs leading-5 font-semibold rounded-full bg-blue-100 text-blue-800">
-                                                {{ $visitor->whomToVisitUser->name ?? 'N/A' }}
+                                                {{ $visitor->whom_to_visit ?? 'N/A' }}
                                             </span>
                                         </dd>
                                     </div>
